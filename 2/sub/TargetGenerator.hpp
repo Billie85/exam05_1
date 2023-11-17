@@ -1,6 +1,0 @@
-#ifndef TARGETGENERATOR_HPP
-#define TARGETGENERATOR_HPP
-
-class
-
-#endif
